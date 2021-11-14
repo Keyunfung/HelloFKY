@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloFKY</string>
+    <string name="my_name">Fung Ke Yun</string>
+    <string name="show">Show</string>
+    <string name="todo">TODO</string>
+    <string name="string_todo" />
+    <string name="qr">qr</string>
+</resources>
